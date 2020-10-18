@@ -7,4 +7,5 @@ def salary(hours, rate, bonus):
     print((hours * rate) + bonus)
 
 
+
 salary(int(hours), int(rate), int(bonus))

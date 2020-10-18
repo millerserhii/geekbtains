@@ -5,6 +5,7 @@ def generator(x):
     for el in range(1, x+1):
         yield el
 
+
 factorial = 1
 usr_input = int(input("Введите число "))
 
