@@ -1,0 +1,11 @@
+Ivanov 24000.00
+Petrov 27000.00
+Sidorov 19000.00
+Makarov 25000.77
+Vasiliev 33000.12
+Maratov 13000.6
+Zolotarev 10000.65
+Gibelman 78000.00
+Smirnov 99000.45
+Reznik 7000.00
+Juan 12000.0
